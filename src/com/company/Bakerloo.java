@@ -12,7 +12,7 @@ public class Bakerloo implements Trains {
         color = "Brown";
         isOperational = true;
     }
-//hello
+//hello and goodbye
     @Override
     public String returnName(){
         return name;
